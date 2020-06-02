@@ -1,8 +1,20 @@
 
+## React badges
 
 ### Para iniciar el proyecto
 
-```bash
-npm start
+#### instalar modules
 
+```sh
+ npm install 
 ```
+#### Iniciar proyecto
+```sh
+npm run start
+```
+
+#### Script para deployee
+```sh
+npm run build
+```
+
